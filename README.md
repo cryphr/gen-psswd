@@ -6,7 +6,7 @@ Este script de Python te permite generar contraseñas seguras con una longitud p
 
 Antes de ejecutar el script, asegúrate de tener instaladas las dependencias necesarias. Esto se puede hacer utilizando el siguiente comando en la terminal:
 
-´pip install -r requirements.txt´
+``pip install -r requirements.txt``
 
 
 Este comando instalará la única dependencia necesaria para ejecutar el script: `colorama`.
