@@ -1,4 +1,4 @@
-## Generador de contraseñas seguras
+# Generador de contraseñas seguras
 
 Este script de Python te permite generar contraseñas seguras con una longitud personalizada. Puedes especificar si deseas utilizar letras mayúsculas y minúsculas, números y símbolos en la contraseña generada.
 
