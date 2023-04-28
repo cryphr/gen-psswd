@@ -2,6 +2,9 @@
 
 Este script de Python te permite generar contraseñas seguras con una longitud personalizada. Puedes especificar si deseas utilizar letras mayúsculas y minúsculas, números y símbolos en la contraseña generada.
 
+##### Clonar repositorio:
+`git clone https://github.com/cryphr/gen-psswd.git`
+
 ## Instalación de dependencias
 
 Antes de ejecutar el script, asegúrate de tener instaladas las dependencias necesarias. Esto se puede hacer utilizando el siguiente comando en la terminal:
