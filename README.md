@@ -21,17 +21,12 @@ Una vez que hayas proporcionado la información solicitada, se generará una con
 
 `$ python generate_password.py`
 
-`Ingrese la longitud de la contraseña: 12`
-
-`¿Desea utilizar letras mayúsculas? (S/N) S`
-
-`¿Desea utilizar letras minúsculas? (S/N) S`
-
-`¿Desea utilizar números? (S/N) S`
-
-`¿Desea utilizar símbolos? (S/N) S`
-
-`La contraseña generada es: 9Xo6.c=^,vZ`
+Ingrese la longitud de la contraseña: 12
+¿Desea utilizar letras mayúsculas? (S/N) S
+¿Desea utilizar letras minúsculas? (S/N) S
+¿Desea utilizar números? (S/N) S
+¿Desea utilizar símbolos? (S/N) S
+La contraseña generada es: 9Xo6.c=^,vZ
 
 ## Contribuciones
 
