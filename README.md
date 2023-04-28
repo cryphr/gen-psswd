@@ -19,7 +19,7 @@ Una vez que hayas proporcionado la información solicitada, se generará una con
 
 ## Ejemplo
 
-$ python generate_password.py`
+$ python generate_password.py
 Ingrese la longitud de la contraseña: 12
 ¿Desea utilizar letras mayúsculas? (S/N) S
 ¿Desea utilizar letras minúsculas? (S/N) S
